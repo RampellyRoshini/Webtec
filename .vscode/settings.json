@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "off",
+    "scm.autoReveal": false,
+    "scm.alwaysShowRepositories": true,
+    "scm.alwaysShowActions": true,
+    "scm.experimental.showSyncView": true,
+    "scm.repositories.sortOrder": "discovery time"
+}
